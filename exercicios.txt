@@ -1,1 +1,3 @@
 Exercício de git e github
+Adicionado um novo comando
+Adicionado um novo comando
